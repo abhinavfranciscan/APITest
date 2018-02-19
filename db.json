@@ -1,36 +1,24 @@
 {
-  "posts":[
-    {
-      "id":1,
-      "title":"Post 1"
-    },
-    {
-      "id":2,
-      "title":"Post 2"
-    },
-    {
-      "id":3,
-      "title":"Post 3"
-    }
-  ],
-  "child_list":{
-    "ErrorCode":0,
-    "list":[
+  "child_list": {
+    "ErrorCode": 0,
+    "status": "ok",
+    "Message": "List",
+    "list": [
       {
-        "id":1,
-        "child_name":"Tarun",
-        "currency":"U+20B9",
-        "fee":"250"
+        "id": 1,
+        "child_name": "Tarun",
+        "currency": "U+20B9",
+        "fee": "250"
       },
       {
-        "id":2,
-        "child_name":"CC",
-        "currency":"U+20B9",
-        "fee":"250"
+        "id": 2,
+        "child_name": "CC",
+        "currency": "U+20B9",
+        "fee": "250"
       }
     ]
   },
-  "profile":{
-    "name":"typicode"
+  "profile": {
+    "name": "typicode"
   }
 }
