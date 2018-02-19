@@ -13,16 +13,18 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "child_list": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "child_name": "Tarun",
+      "currency": "U+20B9",
+      "fee": "250"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "child_name": "CC",
+      "currency": "U+20B9",
+      "fee": "250"
     }
   ],
   "profile": {
